@@ -1,7 +1,7 @@
 # Intro-To-Robotics
 Python programming assignments I completed in CptS 483: Intro To Robotics Fall 2016
 
-Youtube Channel with demos: 
+Video Demos:
 - TurtleBot making a spiral in ROS/Gazebo simulator: https://www.youtube.com/watch?v=OTFy3FCJe7M
 - TurtleBot making a triangle in ROS/Gazebo simulator: https://www.youtube.com/watch?v=dtYNnlE2Gys
 - TurtleBot navigation using vision in ROS/Gazebo simulator: https://www.youtube.com/watch?v=ukOlaafyz1E
